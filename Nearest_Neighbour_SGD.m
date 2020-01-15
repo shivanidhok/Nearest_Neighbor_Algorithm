@@ -3,7 +3,7 @@ function [I_after_nearest] = Nearest_Neighbour_SGD(I)
 % Author: Shivani Dhok
 % Date of Creation: January 13, 2019
 % Digital Image Processing
-% Function for: Histogram equalization
+% Function for: Nearest Neighbour Algorithm
 
 % The function 'Nearest_Neighbour_SGD()' performs histogram equalization of an image.
 % 
