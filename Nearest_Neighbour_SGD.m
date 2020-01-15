@@ -1,7 +1,7 @@
 function [I_after_nearest] = Nearest_Neighbour_SGD(I)
 %===========================Function Description==============================
 % Author: Shivani Dhok
-% Date of Creation: January 3, 2019
+% Date of Creation: January 13, 2019
 % Digital Image Processing
 % Function for: Histogram equalization
 
