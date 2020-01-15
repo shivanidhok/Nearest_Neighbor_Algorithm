@@ -6,7 +6,7 @@ Main Function: Nearest_Neighbour_SGD()
 ===========================Function Description==============================
 
 Author: Shivani Dhok
-Date of Creation: January 3, 2019
+Date of Creation: January 13, 2019
 Digital Image Processing
 Function for: Histogram equalization
 
